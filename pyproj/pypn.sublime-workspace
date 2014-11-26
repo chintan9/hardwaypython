@@ -1,0 +1,438 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"get",
+				"getppid"
+			],
+			[
+				"p",
+				"Python"
+			],
+			[
+				"f",
+				"first"
+			],
+			[
+				"t",
+				"third"
+			],
+			[
+				"s",
+				"second"
+			],
+			[
+				"py",
+				"py"
+			],
+			[
+				"w",
+				"weight"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"a",
+				"are"
+			],
+			[
+				"tabb",
+				"tabby_cat"
+			],
+			[
+				"pr",
+				"print"
+			],
+			[
+				"jo",
+				"joke_evaluation"
+			],
+			[
+				"do",
+				"do_not	(global, instance)"
+			],
+			[
+				"my_",
+				"my_height"
+			],
+			[
+				"my",
+				"my_weight"
+			],
+			[
+				"PT",
+				"print	function"
+			],
+			[
+				"av",
+				"average_passengers_per_car	(global, instance)"
+			],
+			[
+				"L",
+				"LNAME"
+			],
+			[
+				"LA",
+				"LNAME"
+			],
+			[
+				"Q",
+				"QIL"
+			],
+			[
+				"C",
+				"CASE_WON_BY_LAWYER"
+			],
+			[
+				"QI",
+				"QIW"
+			],
+			[
+				"CAS",
+				"CASE_LOST_BY_LAWYER"
+			],
+			[
+				"CRI",
+				"CRIMETYPE"
+			],
+			[
+				"qh",
+				"QH1"
+			],
+			[
+				"cr",
+				"CREATE"
+			],
+			[
+				"F",
+				"FNAME"
+			],
+			[
+				"sa",
+				"SALARY"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/chintan/AppData/Local/Temp/ideone_gykcp.txt",
+			"settings":
+			{
+				"buffer_size": 4120,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"command_palette":
+	{
+		"height": 311.0,
+		"selected_items":
+		[
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control:in",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"INST",
+				"Package Control: Install Package"
+			],
+			[
+				"IN",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Discover Packages"
+			],
+			[
+				"Package Control: e",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: c",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: s",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 536.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"clear",
+			"in"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/temp/pyproj/pypn.sublime-project",
+		"/D/temp/pyproj/e14.py",
+		"/D/temp/pyproj/e13.py",
+		"/D/temp/pyproj/e12.py",
+		"/D/temp/pyproj/e11.py",
+		"/D/temp/sublime text/Data/Packages/User/Default (Windows).sublime-keymap",
+		"/D/temp/sublime text/Data/Packages/Default/Default (Windows).sublime-keymap",
+		"/D/temp/sublime text/Data/Packages/SublimeREPL/SublimeREPL.sublime-settings",
+		"/D/temp/pyproj/e10.py",
+		"/D/temp/pyproj/e9.py",
+		"/D/temp/pyproj/e8.py",
+		"/D/temp/pyproj/e7.py",
+		"/D/temp/pyproj/e6.py",
+		"/D/temp/pyproj/e5.py",
+		"/D/temp/pyproj/e4.py",
+		"/D/temp/pyproj/e3.py",
+		"/D/temp/pyproj/pyp.sublime-project",
+		"/D/temp/pyproj/e2.py",
+		"/D/temp/sublime text/Data/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/D/temp/pyproj/e1.py",
+		"/D/temp/sublime text/Data/Packages/Anaconda/LICENSE",
+		"/D/temp/pyproj/e0.py",
+		"/D/temp/sublime text/Data/Packages/SublimePythonIDE/SublimePython.sublime-settings",
+		"/D/temp/sublime text/Data/Packages/Pylinter/Pylinter.sublime-settings",
+		"/D/temp/sublime text/Data/Packages/User/SublimeREPL.sublime-settings",
+		"/D/temp/sublime text/Data/Packages/Highlight/SublimeHighlight.sublime-settings",
+		"/D/temp/sublime text/Data/Packages/User/SublimeHighlight.sublime-settings",
+		"/C/Users/chintan/Desktop/cx",
+		"/C/Users/chintan/AppData/Local/Temp/output-1.txt",
+		"/D/temp/dba/qi.sql",
+		"/C/Users/chintan/AppData/Local/Temp/output.txt",
+		"/D/temp/dba/ftpsync.settings",
+		"/D/temp/dba/sftp-config.json",
+		"/D/temp/dba/cf.sql",
+		"/D/temp/dba/qh.sql",
+		"/D/temp/dba/qe.sql",
+		"/D/temp/dba/qg.sql",
+		"/D/temp/dba/qg",
+		"/D/temp/dba/qf.sql",
+		"/D/temp/dba/qd.sql",
+		"/D/temp/dba/QF",
+		"/D/temp/dba/qc.sql",
+		"/D/temp/dba/af.sql",
+		"/D/temp/dba/qb.sql",
+		"/D/temp/dba/lwcsins.sql",
+		"/D/temp/dba/lins.sql",
+		"/D/temp/dba/fins.sql",
+		"/D/temp/dba/crimeins.sql",
+		"/D/temp/dba/cins.sql",
+		"/D/temp/sublime text/Data/Packages/Pandoc/Pandoc.sublime-settings",
+		"/D/temp/sublime text/Data/Packages/Highlight/README.md"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"varibale",
+			"')",
+			"into",
+			"case_",
+			"INTO",
+			"')",
+			",0",
+			"into"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"variable",
+			"');",
+			"INSERT INTO",
+			"CASE",
+			"INSERT INTO",
+			"');",
+			"\");",
+			"0",
+			"INSERT INTO"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/chintan/AppData/Local/Temp/ideone_gykcp.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4120,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 191.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 100.0
+	},
+	"project": "pypn.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"qa",
+				"qa.sql"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 190.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
